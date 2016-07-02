@@ -1,0 +1,18 @@
+{
+  "name": "fashionbay",
+  "description": "this app is super for latest trends",
+  "main": "server.js",
+  "authors": [
+    "bhargav"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
